@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header-logo{
+    width: 200px;
+    display: inline-block;
+    padding: 5px;
+}
+
+nav{
+    display: inline-block;
+}
+
+ul.header-nav-li li{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    color: aliceblue;
+    font-size: 20px;
+    margin: 20px 10px;
+    
+    
+}
+.main{
+    background-color: black;
+    margin:70px 20px;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+}
+.main-nombre{
+    font-size: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.texto-inicial{
+    background-color: black;
+    margin: 80px 70px;
+    text-align: center;
+    color: aliceblue;padding: 10px;
+    font-size: 20px;
+}
+
+
+.texto-ubicacion{
+    text-align: center;
+}
+
+iframe.mapa {
+    width: auto;
+    height: auto;
+    padding: 20px;
+    display: block;
+    margin: auto;
+}
+
+.footer {
+    background-color: black;
+    color: gray;
+    font-size: 14px;
+}
+
+p.footer-volver   {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+}
+    
+
+.footer-wpp img {
+    width: 60px;
+    display: block;
+   margin: 20px 20px 20px auto;
+    border: 50px;
+}
+
+section.section-img {
+    display: inline-block;
+    margin: 10px;
+}
+.main-proveedores {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.proveedores-img {
+    margin: 10px;
+    display: inline-block;
+    font-size: 10px;
+    text-align: center;
+}
+
+.main-clientes {
+    font-size: 20px;
+    text-align: center;
+    margin: 40px;
+}
+
+.section-clientes {
+    font-size: 15px;
+    margin: 20px;
+}
+
+.section-clientes ul li{
+    list-style-type: none;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(211, 198, 198);
+}
+
+.trabajos {
+    margin: 50px 30px;
+    text-align: center;
+    background-color: azure;
+    font-size: 40px;
+}
+
+.lista-trabajos li {
+  text-align: center;
+  margin: 5px;
+  font-size: 24px;
+  font-family: 'Courier New', Courier, monospace; 
+}
+
+.trabajos-link {
+    text-align: center;
+    margin: 20px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(182, 228, 213);
+}
+
+.section-contacto  div h2{
+    margin: 50px 30px;
+    text-align: center;
+    background-color: azure;
+    font-size: 40px;
+}
+
+.contact-box {
+    text-align: center;
+    margin: auto;
+}
+
+.contact {
+    margin: 10px;
+}
