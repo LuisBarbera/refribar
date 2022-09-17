@@ -160,3 +160,11 @@ body {
 .contact {
     margin: 10px;
 }
+
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-image: url(https://wallpaperaccess.com/full/6259541.jpg) !important;
+    min-height: 60vh;
+    position: relative;
+    color: white;
+  }
