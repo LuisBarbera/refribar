@@ -102,6 +102,7 @@ section.section-img {
     text-align: center;
 }
 
+
 .main-clientes {
     font-size: 20px;
     text-align: center;
@@ -167,4 +168,13 @@ body {
     min-height: 60vh;
     position: relative;
     color: white;
+  }
+
+  .shadow{
+    color: black;
+  }
+
+  a:hover .logo {
+    width: 105px;
+    height: 135px;
   }
